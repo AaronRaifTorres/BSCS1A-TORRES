@@ -58,7 +58,7 @@ First of all About me :bust_in_silhouette::
  - Master other Adobe software :movie_camera:
  - Enjoy life
  - Being able to create something different and New.
- - Teach the next generation of programmers
+ - Teach 
 
   Fun Facts About Me :sunflower::
   - I like to collect shoes
