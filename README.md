@@ -7,6 +7,8 @@ First of all About me :bust_in_silhouette::
  - Age :date: -  19 years old 
  - Location :mailbox_with_mail:  - The province of Aklan 
  - School : West Visayan State University Iloilo City
+ - Course :mortar_board:: BS Computer Science
+ - Year :school_satchel:: First Year (Freshmen)
   
  Hobbies :space_invader: : 
  -  I play Video Games
