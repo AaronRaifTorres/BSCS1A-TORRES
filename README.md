@@ -46,8 +46,8 @@ First of all About me person_with_blond_hair::
  
  
  Dreams :seedling::
- -Finish College
- -Find a decent job
+ - Finish College
+ - Find a decent job
  - Master Programming Languange
  - Be great at coding
  - Develop an App
