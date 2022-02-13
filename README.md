@@ -2,7 +2,7 @@
 ## Hello there!
 ## Let me Introduce myself and tell my skills and hobbies! :trollface:
 
-First of all About me person_with_blond_hair::
+First of all About me :bust_in_silhouette::
  - My Full Name: Aaron Raif B. Torres 
  - Age :date: -  19 years old 
  - Location :mailbox_with_mail:  - The province of Aklan 
