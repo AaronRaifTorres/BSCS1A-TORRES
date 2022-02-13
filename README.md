@@ -6,7 +6,7 @@ First of all About me :bust_in_silhouette::
  - My Full Name: Aaron Raif B. Torres 
  - Age :date: -  19 years old 
  - Location :mailbox_with_mail:  - The province of Aklan 
- - School : West Visayan State University Iloilo City
+ - School :school: : West Visayan State University Iloilo City
  - Course :mortar_board:: BS Computer Science
  - Year :school_satchel:: First Year (Freshmen)
   
