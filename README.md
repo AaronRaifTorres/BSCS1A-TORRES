@@ -1,6 +1,6 @@
 # BSCS1A-TORRES
 ## Hello there!
-## Let me Introduce myself and tell my skills and hobbies! :trollface:
+## Let me Introduce myself and Share my skills and hobbies! :trollface:
 
 First of all About me :bust_in_silhouette::
  - My Full Name: Aaron Raif B. Torres 
