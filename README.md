@@ -2,11 +2,11 @@
 ## Hello there!
 ## Let me Introduce myself and tell my skills and hobbies! :trollface:
 
-First of all About me :person_with_blond_hair::
-  My Full Name: Aaron Raif B. Torres 
-  Age :date: -  19 years old 
-  Location :mailbox_with_mail:  - The province of Aklan 
-  School : West Visayan State University Iloilo City
+First of all About me person_with_blond_hair::
+ - My Full Name: Aaron Raif B. Torres 
+ - Age :date: -  19 years old 
+ - Location :mailbox_with_mail:  - The province of Aklan 
+ - School : West Visayan State University Iloilo City
   
  Hobbies :space_invader: : 
  -  I play Video Games
